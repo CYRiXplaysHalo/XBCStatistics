@@ -40,3 +40,13 @@ This shows a smoother line and a peak pre-midnight ET so this is probably a litt
 ![2003-2006](https://github.com/CYRiXplaysHalo/XBCStatistics/blob/master/all_time.PNG)
 
 As you can see this is extremely similar to 2005 and that's partly because there were a lot of samples taken from 2005 but also because the majority of the samples occur post Halo 2's release. So in conclusion I would say we have a good idea of how popular XBC was post-Halo 2, which was about a 2,000 user's online peak nightly. We can certainly assume it was even more popular pre-Halo 2 and we can safely assume that the average peak of users online pre-Halo 2 was 2,500 or greater.
+
+### What else?
+
+There is certainly other things you can do with this data set, given all of the different values xbconnect.com reported. The next one I would look into is the total_accounts number. That could be compared to the size of xbox live or similar services back then and that would be another way to contextualize popularity/usage. 
+
+### Got questions or comments?
+
+Feel free to open an issue. If you want to contribute I am definitely open to pull requests. If you know of other archives of xbconnect stats I would love to add them to this repository.
+
+- cyrix
